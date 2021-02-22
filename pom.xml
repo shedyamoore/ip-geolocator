@@ -42,7 +42,10 @@
 			<scope>compile</scope>
 		</dependency>
 
+<<<<<<< HEAD
 		
+=======
+>>>>>>> lombok
 
 		<dependency>
 			<groupId>org.projectlombok</groupId>
